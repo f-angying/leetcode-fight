@@ -1,7 +1,7 @@
 # Leetcode Challenges Fight - Golang
 This repository is dedicated to tackling Leetcode challenges in Go language. Leetcode is a popular platform that provides a vast collection of coding problems to enhance algorithmic and coding skills. This repository serves as a personal workspace for solving and documenting solutions to Leetcode challenges.
 
-<i>Maybe I'll add more solutions come with diversity of programming languages and I always feel pleasure for all of your supporting.</i>
+<i>Maybe I'll add more solutions come with diversity of programming languages in the future but I always feel pleasure for all of your supporting.</i>
 
 ## Repository Structure
 The repository follows a structured approach to organize the Leetcode solutions:
